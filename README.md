@@ -2,8 +2,7 @@
 This is a [React Native App](https://reactnative.dev/) 
 
 
-# App Name:
-## GameZone
+# App Name: GameZone
 
 
 
