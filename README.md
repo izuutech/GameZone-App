@@ -29,7 +29,7 @@ GameZone is an app that accepts reviews and ratings on existing games.
 In other words, a user basically launches the app, write a review on a game he/she has played and that's all
 There is already 3 dummy data coming with this package.
 
-PS: This app was created while I was learning React native
+
 
 - [Joshua Izu](https://joshuaizu.vercel.app) - My Portfolio website.
 
